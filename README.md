@@ -23,25 +23,7 @@ Programming Languages: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
 Database: SQL (for querying and managing data)
 Visualization: Power BI (optional for advanced visualizations)
-Installation
-To set up the project locally, follow these steps:
 
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/macdonald-case-study.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd macdonald-case-study
-Install the required dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-Usage
 Data Preparation: Load and preprocess data using the provided scripts in the scripts/ directory.
 Analysis: Run the analysis scripts to perform data exploration and generate insights.
 Visualization: Use the visualization scripts to create charts and graphs.
